@@ -1,5 +1,3 @@
-# SNA_in_Python
-
 # Academic Journal Data Crawling and Social Network Analysis
 
 This project involves three main steps: data crawling, data cleaning, and social network analysis using Python.
